@@ -9,6 +9,10 @@ Tacos are very good regardless of their content. Bye. Tortillas and burritos are
 
 This is a repository in order to do some tests with git and/or github. 14-9-18.
 
+## Poem
+
+It was copied from the video explaining git and github. All tests were OK.
+
 ## End at the moment
 
 Bye.
